@@ -1,4 +1,4 @@
-# TODO: Replicating Author (Year), "Title of the paper"
+#Replicating Card (1995), "Using Geographic Variation in College Proximity to Estimate the Return to Schooling"
 
 > **Template note, delete before you submit.** This is the ECON 5200 replication template.
 > Replace every line that starts with `TODO:`. The grader clones this repository into an
