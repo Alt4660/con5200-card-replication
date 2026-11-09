@@ -7,10 +7,10 @@
 
 ## The paper and its headline claim
 
-- **Paper:** TODO: full citation (authors, year, title, journal, volume, pages).
-- **Identification strategy:** TODO: difference-in-differences / instrumental variables / regression discontinuity / matching.
-- **Headline claim:** TODO: one sentence, with the number and where it is in the paper (for example, Table 2, column 3).
-- **My replication:** TODO: my number beside theirs, and the gap in percent, as `python reproduce.py` prints it.
+**Paper:** Card, David (1995). "Using Geographic Variation in College Proximity to Estimate the Return to Schooling." In L. N. Christofides, E. K. Grant, and R. Swidinsky (eds.), *Aspects of Labour Market Behaviour: Essays in Honour of John Vanderkamp*, pp. 201–222. University of Toronto Press. I replicate the October 1993 working-paper version, NBER Working Paper 4483.
+**Identification strategy:** Instrumental variables. Growing up near a four-year college (nearc4) is the instrument for years of schooling, with the other controls included in both stages.
+**Headline claim:** The IV estimate of the return to one more year of schooling is 0.132 (s.e. 0.049), well above the OLS estimate of 0.073 (s.e. 0.004). Both are in Table 4, row 1. The IV figure also appears in Table 3, Panel B, column 6.
+**My replication:** OLS 0.0721 vs 0.073 (gap -1.25%), IV 0.1314 vs 0.132 (gap -0.46%), and first stage 0.3803 vs 0.365 (gap +4.19%), as python reproduce.py prints them.
 
 ## Reproduce the headline table
 
