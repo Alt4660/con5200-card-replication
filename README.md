@@ -31,9 +31,9 @@ outputs, go to `output/executed/`.
 
 ## Data: source and licence
 
-- **Source:** TODO: the URL in `download_data.py` for your paper, and who produced the original data.
-- **Included or downloaded:** TODO: say which, and why.
+- **Source:** `https://raw.githubusercontent.com/scunning1975/mixtape/master/card.dta`, which is the link in `download_data.py`
 
+- **Included or downloaded:** The licence would let me keep a copy in my repo, but I wanted the data to stay at its source and the repo to stay small. So I don't upload it, and Python downloads it automatically the first time you run `python reproduce.py`.
 The template downloads by default: `.gitignore` excludes `data/*.dta`, and
 `download_data.py` fetches the files on the first run. Two facts to check before you
 decide:
