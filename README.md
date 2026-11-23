@@ -62,10 +62,10 @@ the files with the licence notice, and say so above.
 | `AUDIT.md` | How to run the peer audit you file on a classmate's repository |
 | `requirements.txt` | Pinned package versions |
 
-TODO: add a row for every file you add.
+
 
 ## Use of AI
 
 Sections 1 and 2 were completed without AI.
 
-TODO: Section 3: I used Claude (Sonnet 5.5) on Exercises 1 to 4. The full prompts, outputs, my changes and my checks are in ai-appendix.md.
+Section 3: I used Claude (Sonnet 5.5) on Exercises 1 to 4. The full prompts, outputs, my changes and my checks are in ai-appendix.md.
