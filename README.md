@@ -68,5 +68,4 @@ TODO: add a row for every file you add.
 
 Sections 1 and 2 were completed without AI.
 
-TODO: list the sections where you used AI (from 3, 4, 5 and 6), for what, and point to the
-entries in [`ai-appendix.md`](ai-appendix.md). If you used none, say so.
+TODO: Section 3: I used Claude (Sonnet 5.5) on Exercises 1 to 4. The full prompts, outputs, my changes and my checks are in ai-appendix.md.
