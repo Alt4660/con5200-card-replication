@@ -1,4 +1,4 @@
-#Replicating Card (1995), "Using Geographic Variation in College Proximity to Estimate the Return to Schooling"
+# Replicating Card (1995), "Using Geographic Variation in College Proximity to Estimate the Return to Schooling"
 
 ## The paper and its headline claim
 
