@@ -650,7 +650,7 @@ This suggests that the positive IV estimate is somewhat sensitive to a direct ef
 
 ## Section 4: Does the finding hold?
 
-TODO
+No AI was used in this section
 
 ## Section 5: Peer audit
 
