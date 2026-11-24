@@ -21,11 +21,11 @@ pip install -r requirements.txt
 python reproduce.py
 ```
 
-`python reproduce.py` is the one command. Once `MY_PAPER` is set in `download_data.py`,
-it downloads the data if `data/` does not have it, runs `notebooks/01_positioning_and_replication.ipynb` and then
-`notebooks/02_robustness.ipynb` top to bottom in a fresh kernel, and prints the headline
-table from `output/headline_table.csv`. Executed copies of the notebooks, with their
-outputs, go to `output/executed/`.
+`python reproduce.py` is the one command. It downloads the data if `data/` does not
+have it, runs `notebooks/01_positioning_and_replication.ipynb` and then
+`notebooks/02_robustness.ipynb` top to bottom in a fresh kernel, and prints the
+headline table from `output/headline_table.csv`. Executed copies of the notebooks,
+with their outputs, go to `output/executed/`.
 
 - **Expected runtime:** With the dat download my code ran in about 13 seconds when I tested it.
 
