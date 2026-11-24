@@ -73,3 +73,5 @@ Section 3: I used Claude (Sonnet 5.5) on Exercises 1 to 4. The full prompts, out
 Section 4: NO AI used
 
 Section 5: Claude (Sonnet 5.5), peer audit.
+
+Section 6: Claude (Sonnet 5.5), used for a clean-checkout run and README check.
