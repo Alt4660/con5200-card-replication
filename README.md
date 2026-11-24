@@ -27,7 +27,7 @@ have it, runs `notebooks/01_positioning_and_replication.ipynb` and then
 headline table from `output/headline_table.csv`. Executed copies of the notebooks,
 with their outputs, go to `output/executed/`.
 
-- **Expected runtime:** With the dat download my code ran in about 30 seconds when I tested it.
+- **Expected runtime:** With the dat download my code ran in about 45 seconds when I tested it.
 
 ## Data: source and licence
 
