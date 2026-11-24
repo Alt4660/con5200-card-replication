@@ -939,7 +939,7 @@ Check whether the clean checkout runs, whether the results match the README and 
 
 **What I changed and why**
 
-I didn't change much sicne the idea was just to have a comparison for when I ran my repo form a clean check out. I asked it to do the same and I compared the results against so that I could find any missing or incorrect README information. Claude found the same one as me being that the runtime was longer than originally stated when ran from a fresh cleanout. However I got 45 seconds runtime and it got approximately 30 seconds. I also made clear that I did not want any changes made to my repo or notebooks.
+I didn't change much sicne the idea was just to have a comparison for when I ran my repo form a clean check out. I asked it to do the same and I compared the results against so that I could find any missing or incorrect README information. Claude found the same one as me being that the runtime was longer than originally stated when ran from a fresh cleanout, however I got 45 seconds runtime and it got approximately 30 seconds so I changed the README to match my number. I also made clear that I did not want any changes made to my repo or notebooks.
 
 ---
 
