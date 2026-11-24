@@ -69,3 +69,7 @@ the files with the licence notice, and say so above.
 Sections 1 and 2 were completed without AI.
 
 Section 3: I used Claude (Sonnet 5.5) on Exercises 1 to 4. The full prompts, outputs, my changes and my checks are in ai-appendix.md.
+
+Section 4: NO AI used
+
+Section 5: Claude (Sonnet 5.5), peer audit.
